@@ -9,7 +9,7 @@ AI-Based Emergency Response Optimization is a smart web-based system developed u
 
 Traditional emergency management systems often rely on manual estimations and static routing methods. This project enhances response efficiency by integrating a Random Forest regression model that analyzes historical emergency data to predict response time accurately.
 
-Additionally, the system:
+### Additionally, the system:
 
 Identifies the nearest hospital using the Haversine distance formula.
 
@@ -80,7 +80,7 @@ Prediction Accuracy (R² Score): ~92–95% (Based on dataset)
 
 
 ## Results and Impact
-## The AI-Based Emergency Response Optimization System improves emergency management efficiency by providing:
+### The AI-Based Emergency Response Optimization System improves emergency management efficiency by providing:
 
 Faster response time estimation
 
@@ -92,7 +92,7 @@ Real-time decision support
 
 This system demonstrates how Artificial Intelligence and Machine Learning can significantly enhance public safety infrastructure and reduce response delays during critical situations.
 
-## The project lays a strong foundation for future integration with:
+### The project lays a strong foundation for future integration with:
 
 Live traffic APIs
 
